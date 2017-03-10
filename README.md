@@ -1,6 +1,6 @@
 # pydata-book
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
-
+**本git存储《利用Python进行数据分析》这本书各个章节的数据文件及相关材料
 ## IPython Notebooks:
 
 * [Chapter 2: Introductory Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch02.ipynb)
